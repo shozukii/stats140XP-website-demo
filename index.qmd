@@ -1,17 +1,15 @@
 ---
-title: "personal-website"
+title: "Dylan Mochizuki"
+about: 
+  template: trestles
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/shozukii
+    - text: Email
+      url: "mailto:dmochi@ucla.edu"
+      icon: inbox-fill
+    - text: Resume
+      url: "resume.pdf"
+toc: false
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
-
-
-```{r}
-runif(10)
-
-```

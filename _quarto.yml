@@ -2,12 +2,16 @@ project:
   type: website
 
 website:
-  title: "personal-website"
+  title: "Dylan Mochizuki"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: projects.qmd
+        text: Projects
+      - href: courses.qmd
+        text: Courses
+        
 
 format:
   html:
