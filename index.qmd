@@ -2,6 +2,8 @@
 title: "Dylan Mochizuki"
 about: 
   template: trestles
+  image: image.webp
+  image-width: 200px
   links:
     - icon: github
       text: Github
@@ -10,6 +12,22 @@ about:
       url: "mailto:dmochi@ucla.edu"
       icon: inbox-fill
     - text: Resume
-      url: "resume.pdf"
+      url: "Dylan Mochizuki Resume.pdf"
 toc: false
 ---
+
+:::{#hero-heading}
+
+I am currently a fourth year Statistics and Data Science Undergraduate student at UCLA. I am currently interning at WeThink as a data science intern. In my free time I enjoy spending time with my family and friends and playing soccer.
+
+## Education
+
+**University of California, Los Angeles** | Los Angeles, CA
+
+B.S. in Statistics and Data Science | Sep 2023 - Dec 2025
+
+## Experience
+
+**WeThink** | Data Science Intern | Aug 2023 - present
+
+:::

@@ -1,5 +1,10 @@
 ---
-title: Project 1
-subtitle: Description
+title: "Can Money Buy Happiness?"
+image: happiness.jpg
+subtitle: "Analysis of various literature and data visualizations"
 ---
+
+Below is the link to a visualization I created in tableau along with an analysis to explore the age old question: "Can Money Buy Happiness?" I am also responsible for the visualization and analysis on the "Effects of Disparities in Healthcare." Navigate to the narrative tab of the website and scroll down to find my contributions.
+
+[Website Link](https://happinessio.humspace.ucla.edu/bcd31-portfolio/)
 

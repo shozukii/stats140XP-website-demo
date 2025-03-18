@@ -1,5 +1,7 @@
 project:
   type: website
+  resources: 
+    - Dylan Mochizuki Resume.pdf
 
 website:
   title: "Dylan Mochizuki"
@@ -9,8 +11,7 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects
-      - href: courses.qmd
-        text: Courses
+
         
 
 format:
